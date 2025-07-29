@@ -1,0 +1,132 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+  background-color: #d2e0f0;
+  color: #333;
+}
+
+.home{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+ 
+}
+
+.navbar {
+  position: fixed;         /* Fix it at the top */
+  top: 0;                  /* Stick to the top edge */
+  width: 100%;             /* Full width */
+  height: 80px;            /* Adjust height as needed */
+  background: #0f3460;
+  padding: 0 40px;         /* Horizontal padding only */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  z-index: 1000; 
+  left: 0px;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.navh1{
+  color: white;
+  display: flex;
+  margin-right: 550px;
+}
+/* Hero Section */
+.hero {
+  background-color: #16213e;
+  color: white;
+  text-align: center;
+  padding: 60px 20px;
+  margin: 60px;
+  width: 800px;
+  margin-top: 200px;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  opacity: 0.9;
+}
+
+.feature{
+  font-size: 2rem;
+}
+
+.product-grid {
+  display: grid;
+  grid-template-columns: 4fr 4fr 4fr 4fr;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
+  justify-content: center;
+  margin-top: 200px;
+}
+
+.product-card {
+  background: white;
+  border-radius: 8px;
+  padding: 15px;
+  width: 200px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.product-card img {
+  width: 100%;
+  border-radius: 6px;
+}
+
+.product-detail {
+  padding: 30px;
+  text-align: center;
+  width: 300px;
+  background-color: #fff;
+  border-radius: 10px;
+  margin: 40px auto;
+  margin-top: 100px;
+}
+
+.product-detail img {
+  width: 300px;
+  border-radius: 8px;
+}
+
+.view-all-btn {
+  padding: 10px 20px;
+  background: #0f3460;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin: 20px;
+  cursor: pointer;
+}
+
+.footer {
+  background-color: #0f3460;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 40px;
+  width: 1000%;
+  height: 50px;
+}
+
+
+
+

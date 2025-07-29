@@ -1,0 +1,96 @@
+.cart{
+ margin-top: 140px;
+ display: flex;
+ flex-direction: row;
+ gap: 150px;
+}
+
+.cartheaddetails{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    margin-left: 150px;
+}
+
+.qty-control{
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+
+}
+
+.cartP{
+  color: red;
+  font-size: 2rem;
+  font-weight: bold;
+  margin-top: 200px;
+}
+
+.cart-grid{
+    width: 950px;
+    
+}
+
+.cart-card{
+  list-style: none;
+  color: black;
+  background-color: #fff;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 100px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.removebtn{
+  width: 100px;
+  height: 40px;
+}
+
+.bill{
+    background-color: #fff;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.billDetail{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 10px;
+}
+
+
+.logout{
+  display: flex;
+  gap: 40px;
+  justify-content: end;
+  margin-right: 40px;
+}
+
+.linkorder{
+  font-size: 1.2rem;
+  color: #fff;
+  background-color: orange;
+  width: 80px;
+  padding-left: 20px;
+  padding-top: 6px;
+  border-radius: 10px;
+}
+
+.logbtn{
+  background-color: red;
+}
+
+

@@ -1,0 +1,64 @@
+/* src/pages/Order.css */
+
+.order-container {
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 20px;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.no-orders {
+  text-align: center;
+  color: #888;
+  font-size: 18px;
+}
+
+.order-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 20px;
+}
+
+.order-card {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 16px;
+  background-color: #fdfdfd;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+
+.order-card h3 {
+  margin-top: 0;
+  color: #0077cc;
+}
+
+.order-card p {
+  margin: 6px 0;
+}
+
+.order-items {
+  margin-top: 10px;
+}
+
+.order-items ul {
+  margin: 8px 0 0;
+  padding-left: 20px;
+}
+
+.order-items li {
+  list-style-type: disc;
+  color: #333;
+}
+
+.order-date {
+  font-size: 14px;
+  color: #666;
+  margin-top: 10px;
+  text-align: right;
+}
