@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>This is my portfolio</title>
+</head>
+<body   style="background-color: azure;" ">
+
+
+
+    <a href="index.html">Home</a>
+
+
+
+    <h2 > Hey! This is Akash</h2>
+
+    <h4> <u>About Me </u>
+        
+    <p>👋 Hi, I'm Akash, a B.Tech student at GLA University, Mathura (U.P.), with a strong foundation in computer science and software development. <br>
+💻 I'm proficient in Java, actively solving algorithmic challenges to sharpen my problem-solving skills. I also enjoy working with JavaScript and specialize in full-stack web development, building scalable and responsive web applications. <br>
+🚀 I'm passionate about writing clean, efficient code and continuously improving my understanding of data structures, algorithms, and system design through platforms like LeetCode.
+</p>
+    </h4>
+
+
+ <h3> <u>Leetcode record</u>-->  </h3> 
+
+    <ul>
+        1) 70 Questions solved at leetcode platform <br>
+        2) I am also doing dsa practice at GFG  and other coding platforms
+    </ul>
+
+
+
+ 
+    <section id = "Projects">
+         <h3><u>Projects:</u>
+</h3>
+<b>.</b> portfolio website   <br>
+<b>.</b>  <a href="form.html">  Registration form page</a> <br>
+<b>.</b> Blog Form  <br>
+<b>.</b> Weather App 
+
+
+    </section>
+
+
+
+<h4><b><u>Resume:</u></b></h4>
+
+Download my Resume 
+
+
+
+<h5>Experience:   <b>1 Year</b></h5>
+
+
+
+
+
+<header>
+    <nav>
+        <ul>
+            <li>
+                <a href=""> Go to home section</a> <br>
+                <a href="projects">  Go to Projects section</a>
+
+                
+
+            </li>
+        </ul>
+    </nav>
+</header>
+
+
+    
+
+    
+</body>
+</html>
