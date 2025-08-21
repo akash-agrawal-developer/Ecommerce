@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+
+
+
+
+<body style="background-color: rgb(141, 155, 61);">
+  <div>
+   <img src="C:\Users\Lanovo\OneDrive\Desktop\images.jpeg" alt="">
+
+  </div>
+    
+
+
+
+
+
+    
+    <h2 >Akash Agrawal</h2>
+    <br>
+
+
+
+    <h2 style="color: rgb(114, 18, 198);">Experience:</h2> <br>
+
+    <b><u>Senior frontEnd  developer</u></b>   <br>
+
+
+    <p  style="color: brown;">As a Senior Software Developer, I led the design, development, and deployment of scalable software solutions aligned with business objectives. I collaborated cross-functionally with product managers, designers, and QA teams to deliver high-quality code and ensure timely project milestones.
+    </p>
+
+    
+
+
+
+
+    
+</body>
+</html>
