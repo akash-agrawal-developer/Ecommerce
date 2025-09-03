@@ -1,0 +1,89 @@
+
+
+HTML      CODE 
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boxes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <fieldset>
+        <legend>Boxes</legend>
+        <div>
+        <div class="a"></div>
+        <br>
+        <div class="b"></div>
+        <br>
+        <div class="c"></div>
+        <br>
+    </fieldset>
+    
+</body>
+</html>
+
+
+
+
+
+
+
+
+#########################################################################################################################################################################################3
+
+
+
+CSS  CODE 
+
+
+
+
+
+
+
+
+fieldset{
+    height: 80vh;
+    width: 30vh;
+    border: solid black 2px;
+    align-items: center;
+    display: flex;
+
+}
+.a{
+    background-color: red;
+    height: 20vh;
+    width: 20vh;
+    border-radius: 100%;
+    background-image: url("https://img.freepik.com/premium-psd/man-is-looking-through-binoculars-front-mountain_1173158-1029.jpg");
+    background-size: cover;
+}
+.c{
+    background-color: green;
+    height: 20vh;
+    width: 20vh;
+    border-radius: 100%;
+    background-image: url("https://tse2.mm.bing.net/th/id/OIP.kgQIlTNFoTnafI9tyEAYLwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3");
+    background-size: cover;
+
+
+}.b{
+    background-color: yellow;
+    height: 20vh;
+    width: 20vh;
+    border-radius: 100%;
+    background-image: url("https://images.pexels.com/photos/450054/pexels-photo-450054.jpeg?cs=srgb&dl=pexels-tirachard-kumtanom-112571-450054.jpg&fm=jpg");
+    background-size: cover;
+}
+
+
